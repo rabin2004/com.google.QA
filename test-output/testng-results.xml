@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-01T20:58:14 EDT" name="Regression Suite" finished-at="2024-06-01T20:58:34 EDT" duration-ms="19658">
+    <groups>
+    </groups>
+    <test started-at="2024-06-01T20:58:14 EDT" name="Regression Test" finished-at="2024-06-01T20:58:34 EDT" duration-ms="19658">
+      <class name="com.google.QA.Test.SearchFunctionalityTest">
+        <test-method is-config="true" signature="loadApp()[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:22 EDT" name="loadApp" finished-at="2024-06-01T20:58:25 EDT" duration-ms="2431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApp -->
+        <test-method signature="positive_Search_Functionality_Test_With_Clicking_Search_Button(java.lang.String)[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:25 EDT" name="positive_Search_Functionality_Test_With_Clicking_Search_Button" data-provider="Positive search data" finished-at="2024-06-01T20:58:26 EDT" duration-ms="1390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positive_Search_Functionality_Test_With_Clicking_Search_Button -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:26 EDT" name="closeApp" finished-at="2024-06-01T20:58:26 EDT" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="loadApp()[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:26 EDT" name="loadApp" finished-at="2024-06-01T20:58:29 EDT" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApp -->
+        <test-method signature="positive_Search_Functionality_Test_With_Clicking_Search_Button(java.lang.String)[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:29 EDT" name="positive_Search_Functionality_Test_With_Clicking_Search_Button" data-provider="Positive search data" finished-at="2024-06-01T20:58:30 EDT" duration-ms="1277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positive_Search_Functionality_Test_With_Clicking_Search_Button -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:30 EDT" name="closeApp" finished-at="2024-06-01T20:58:30 EDT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="loadApp()[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:30 EDT" name="loadApp" finished-at="2024-06-01T20:58:33 EDT" duration-ms="2498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApp -->
+        <test-method signature="positive_Search_Functionality_Test_With_Clicking_Search_Button(java.lang.String)[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:33 EDT" name="positive_Search_Functionality_Test_With_Clicking_Search_Button" data-provider="Positive search data" finished-at="2024-06-01T20:58:34 EDT" duration-ms="1193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positive_Search_Functionality_Test_With_Clicking_Search_Button -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.google.QA.Test.SearchFunctionalityTest@1573f9fc]" started-at="2024-06-01T20:58:34 EDT" name="closeApp" finished-at="2024-06-01T20:58:34 EDT" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.google.QA.Test.SearchFunctionalityTest -->
+      <class name="com.google.QA.Test.HomePageLinkTest">
+        <test-method is-config="true" signature="loadApp()[pri:0, instance:com.google.QA.Test.HomePageLinkTest@3590fc5b]" started-at="2024-06-01T20:58:15 EDT" name="loadApp" finished-at="2024-06-01T20:58:18 EDT" duration-ms="3056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApp -->
+        <test-method signature="gmail_link_test()[pri:0, instance:com.google.QA.Test.HomePageLinkTest@3590fc5b]" started-at="2024-06-01T20:58:18 EDT" name="gmail_link_test" finished-at="2024-06-01T20:58:19 EDT" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail_link_test -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.google.QA.Test.HomePageLinkTest@3590fc5b]" started-at="2024-06-01T20:58:19 EDT" name="closeApp" finished-at="2024-06-01T20:58:19 EDT" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="loadApp()[pri:0, instance:com.google.QA.Test.HomePageLinkTest@3590fc5b]" started-at="2024-06-01T20:58:19 EDT" name="loadApp" finished-at="2024-06-01T20:58:21 EDT" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApp -->
+        <test-method signature="images_link_test()[pri:0, instance:com.google.QA.Test.HomePageLinkTest@3590fc5b]" started-at="2024-06-01T20:58:21 EDT" name="images_link_test" finished-at="2024-06-01T20:58:22 EDT" duration-ms="562" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Google Image] but found [Google Images]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Google Image] but found [Google Images]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.google.QA.Test.HomePageLinkTest.images_link_test(HomePageLinkTest.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- images_link_test -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.google.QA.Test.HomePageLinkTest@3590fc5b]" started-at="2024-06-01T20:58:22 EDT" name="closeApp" finished-at="2024-06-01T20:58:22 EDT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.google.QA.Test.HomePageLinkTest -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
